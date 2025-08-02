@@ -1,3 +1,3 @@
 # computer
 the absolute fundamental of computer
-computer is a electronic maschine, which stores, executes, and display data
+computer is a electronic machine, which stores, executes, and display data
